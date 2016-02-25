@@ -7,5 +7,5 @@ setup(name='metric-agent`',
     author='Souvik Ray',
     author_email='souvik.ray@ril.com',
     license='Apache License 2.0',
-    packages=['metric-agent'],
+    packages=[],
     zip_safe=False)
