@@ -4,4 +4,4 @@
 .settings/
 build/
 dist/
-metrics.egg-info/
+metricagent.egg-info/
